@@ -16,7 +16,13 @@ Following these steps, I will evaluate the performance of these models and make 
 
 ### Results
 
+Cluster Centroids, Naive Random Oversampling, SMOTE oversampling, SMOTEENN over and under sampling, BalancedRandomForest, EasyEnsemble
+
 ### Summary
+
+
+
+
 
 Deliverable 4: Written Report on the Credit Risk Analysis
 For this deliverable, you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
