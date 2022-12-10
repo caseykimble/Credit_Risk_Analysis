@@ -1,4 +1,22 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
+
+### Overview
+
+The purpose of this analysis was to apply machine learning to evaluate credit card risk.
+
+Using a credit card credit dataset from LendingClub, I used several machine learning methods to review whether or not they should be used to predict credit risk. 
+
+The following methods were used:
+* oversampling with RandomOverSampler and SMOTE algorithms
+* undersampling with ClusterCentroids algorithm
+* combination over- and undersampling using SMOTEENN algorithm
+* models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier
+
+Following these steps, I will evaluate the performance of these models and make a written recommendation on their predictability for credit risk.
+
+### Results
+
+### Summary
 
 Deliverable 4: Written Report on the Credit Risk Analysis
 For this deliverable, you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
@@ -10,6 +28,8 @@ Overview of the analysis: Explain the purpose of this analysis.
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+
 
 Deliverable 4: Written Report on the Credit Risk Analysis (30 points)
 Structure, Organization, and Formatting
