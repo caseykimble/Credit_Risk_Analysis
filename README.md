@@ -46,7 +46,7 @@ Following these steps, I will evaluate the performance of these models and make 
 
 ### Summary
 
-I would recommend using our EasyEnsemble Classifier model, which has the highest accuracy at 93.2%, and a higher low-risk recall rate of 94% and high-risk recall rate of 92%. It also has a sensitivity of 9% which is much higher than any other model. 
+I would recommend using our EasyEnsemble Classifier model, which has the highest accuracy at 93.2%, and a better low-risk recall rate of 94% and high-risk recall rate of 92%. It also has a sensitivity of 9% which is much higher than any other model. 
 
 
 
