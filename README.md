@@ -2,7 +2,7 @@
 
 ### Overview
 
-The purpose of this analysis was to apply machine learning to evaluate credit card risk.
+The purpose of this analysis was to apply machine learning models to evaluate credit card risk.
 
 Using a credit card credit dataset from LendingClub, I used several machine learning methods to review whether or not they should be used to predict credit risk. 
 
